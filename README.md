@@ -24,7 +24,7 @@ Cela ne veux pas dire qu'il ne peut pas être utilisé sur une autre configurati
 
 ## Récupération / Lancement du script
 
-Il y a 1 méthode :
+Il y a 2 méthodes :
 
 - Premiere methode: Télécharger le contenu du script sur ce github, décompresser le contenu, penser à mettre le droit d'execution sur le script et lancer le package à l'intérieur SANS sudo 
 
@@ -32,3 +32,7 @@ Il y a 1 méthode :
 > unzip TP-Calculateur-Unikin.zip && 
 > cd TP-Calculateur-Unikin/ && chmod +x TP-Calculateur-Unikin.sh &&
 > ./kgbacademia.sh
+
+- Deuxieme methode: utiliser le site web (Sous une distribution linux "Bash").
+
+> http://tpscript.africultureshop.com/
